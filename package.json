@@ -1,0 +1,19 @@
+{
+  "name": "promise-implementation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "promises-aplus-tests test/index.js",
+    "build": "node scripts/build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esbuild": "^0.11.15",
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
