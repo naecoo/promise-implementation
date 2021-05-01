@@ -1,1 +1,1 @@
-## A simple `Promise` implementation
+## A simple `Promise` implementation 
